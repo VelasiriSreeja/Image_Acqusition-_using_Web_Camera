@@ -26,8 +26,8 @@ End the program and close the output video window by pressing 'q'.
 
 ## Program:
 
-### Developed By: GEDIPUDI DARSHANI
-### Register No: 212223230062
+### Developed By: sreeja v
+### Register No: 212223230169
 ## i) Write the frame as JPG file
 ```
 import numpy as np
